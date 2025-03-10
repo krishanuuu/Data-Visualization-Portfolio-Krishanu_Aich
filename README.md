@@ -2,7 +2,7 @@
 
 Welcome to my Data Visualization Portfolio! This repository showcases my skills in Power BI and Tableau through a collection of projects that demonstrate my ability to analyze and visualize data effectively.
 
-About Me
+* About Me *
 
 I am Krishanu Aich, a data professional with over 3 years of experience in data analytics, business intelligence, and machine learning. I have a strong background in Power BI, Tableau, Python, R, and SQL, allowing me to develop interactive dashboards, predictive models, and data-driven insights that support business decision-making. With expertise in data cleaning, ETL pipelines, and exploratory data analysis (EDA), I am passionate about transforming raw data into meaningful visual stories.
 

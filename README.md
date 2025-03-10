@@ -42,13 +42,6 @@ Tableau Projects
 
 * ETL & Data Engineering: Developing robust data pipelines for seamless integration.
 
-# How to Access the Projects
-
-Each project has its own folder with the following:
-
-Project Files: Power BI (.pbix) or Tableau (.twbx) files.
-
-Project Documentation: Explanation of objectives, insights, and key takeaways.
 
 # Contact Me
 
